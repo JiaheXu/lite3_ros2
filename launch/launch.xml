@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="lite3_ros2" exec="qnx2ros" name="qnx2ros_node" output="screen">
+    </node>
+
+</launch>
